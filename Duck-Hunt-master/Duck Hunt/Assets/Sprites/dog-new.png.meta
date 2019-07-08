@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: addaccba3c1a8ec4db1e720f1cd644ec
+timeCreated: 1447696448
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dog-new_2
+    21300002: dog-new_3
+    21300004: dog-new_4
+    21300006: dog-new_5
+    21300008: dog-new_6
+    21300010: dog-new_8
+    21300012: dog-new_12
+    21300014: dog-new_13
+    21300016: dog-new_14
+    21300018: dog-new_15
+    21300020: dog-new_16
+    21300022: dog-new_17
+    21300024: dog-new_18
+    21300026: dog-new_19
+    21300028: dog-new_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dog-new_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 335
+        width: 265
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog-new_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 335
+        width: 265
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog-new_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 335
+        width: 265
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog-new_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 340
+        width: 265
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog-new_6
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 340
+        width: 265
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog-new_8
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 425
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog-new_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 55
+        width: 245
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog-new_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 55
+        width: 335
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog-new_14
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 55
+        width: 165
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog-new_15
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 55
+        width: 165
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog-new_16
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 60
+        width: 265
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog-new_17
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 55
+        width: 220
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog-new_18
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 65
+        width: 210
+        height: 205
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
